@@ -38,8 +38,9 @@ Due to the accidental exposure of these virtual machines, there is a possibility
 
     Suspicious Activity:
     One such attempt originated from the account scan using the IP address 92.53.65.234.
+    
+![3](https://github.com/user-attachments/assets/80da1a35-0020-40cd-944c-7a31135c5a9d)
 
-    ![3](https://github.com/user-attachments/assets/bb7da3e5-efec-46ac-9454-08a02ebfac2d)
 
 3.3 Successful Login Attempts
 
