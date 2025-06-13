@@ -97,8 +97,8 @@ Based on the investigation, it was confirmed that the exposed virtual machine di
     A new rule was implemented to restrict RDP traffic solely to specific IP addresses.
 
 6. Relevant Tactics, Techniques, and Procedures (TTPs)
-Tactic	Technique	MITRE ID(s)
-Reconnaissance	Active Scanning	T1595
-Initial Access	Brute Force (Guessing, Spraying)	T1110, T1110.001, T1110.003
-Discovery	Account Discovery	T1087
-Defense Evasion	Impair Defenses (Potentially)	T1562
+    Tactic	                  Technique	                              MITRE ID(s)
+    Reconnaissance	        Active Scanning	                            T1595
+    Initial Access	        Brute Force (Guessing, Spraying)            T1110, T1110.001, T1110.003
+    Discovery	            Account Discovery	                        T1087
+    Defense Evasion	        Impair Defenses (Potentially)	            T1562
